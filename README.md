@@ -1,9 +1,9 @@
 # Employee Management System
-# Used Technologies: Spring Boot, Sprin MVC, Hibernate, MySQL for backend. Thymeleaf, Bootstrap for frontend.
+### Used Technologies: Spring Boot, Sprin MVC, Hibernate, MySQL for backend. Thymeleaf, Bootstrap for frontend.
 
-# CRUD Operation --> Save Employee, Get Employee By Id, Update Employee by Id, Delete Employee By Id.
+### CRUD Operation --> Save Employee, Get Employee By Id, Update Employee by Id, Delete Employee By Id.
 
-# UI Screenshots:
+### UI Screenshots:
 
 ![image](https://user-images.githubusercontent.com/46938621/156231718-2cd95225-fd7d-4b99-bb81-18f6ef4a6af1.png)
 ![image](https://user-images.githubusercontent.com/46938621/156231847-92ffa987-72b2-4ce1-b63e-e73815bceae5.png)
